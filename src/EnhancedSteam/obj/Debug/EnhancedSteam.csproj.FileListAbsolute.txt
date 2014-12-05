@@ -1,0 +1,51 @@
+c:\users\jshackles\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\EnhancedSteam.exe
+c:\users\jshackles\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\EnhancedSteam.pdb
+c:\users\jshackles\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\EnhancedSteam.Form1.resources
+c:\users\jshackles\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\EnhancedSteam.Properties.Resources.resources
+c:\users\jshackles\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\EnhancedSteam.csproj.GenerateResource.Cache
+c:\users\jshackles\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\EnhancedSteam.exe
+c:\users\jshackles\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\EnhancedSteam.pdb
+c:\users\jshackles\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\EnhancedSteam.csprojResolveAssemblyReference.cache
+c:\users\jshackles\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\FiddlerCore4.dll
+c:\users\jshackles\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\FiddlerCore4.xml
+C:\Users\jshackles\Documents\Visual Studio 2013\Projects\EnhancedSteam\WindowsFormsApplication2\bin\Debug\FiddlerCore4.dll
+C:\Users\jshackles\Documents\Visual Studio 2013\Projects\EnhancedSteam\WindowsFormsApplication2\bin\Debug\FiddlerCore4.xml
+C:\Users\jshackles\Documents\Visual Studio 2013\Projects\EnhancedSteam\WindowsFormsApplication2\obj\Debug\EnhancedSteam.csprojResolveAssemblyReference.cache
+C:\Users\jshackles\Documents\Visual Studio 2013\Projects\EnhancedSteam\WindowsFormsApplication2\obj\Debug\EnhancedSteam.Form1.resources
+C:\Users\jshackles\Documents\Visual Studio 2013\Projects\EnhancedSteam\WindowsFormsApplication2\obj\Debug\EnhancedSteam.Properties.Resources.resources
+C:\Users\jshackles\Documents\Visual Studio 2013\Projects\EnhancedSteam\WindowsFormsApplication2\obj\Debug\EnhancedSteam.csproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2013\Projects\EnhancedSteam\WindowsFormsApplication2\obj\Debug\EnhancedSteam.exe
+D:\Documents\Visual Studio 2013\Projects\EnhancedSteam\WindowsFormsApplication2\obj\Debug\EnhancedSteam.pdb
+D:\Documents\Visual Studio 2013\Projects\EnhancedSteam\WindowsFormsApplication2\bin\Debug\EnhancedSteam.exe
+D:\Documents\Visual Studio 2013\Projects\EnhancedSteam\WindowsFormsApplication2\bin\Debug\EnhancedSteam.pdb
+D:\Documents\Visual Studio 2013\Projects\EnhancedSteam\WindowsFormsApplication2\bin\Debug\FiddlerCore4.xml
+D:\Documents\Visual Studio 2013\Projects\EnhancedSteam\WindowsFormsApplication2\obj\Debug\EnhancedSteam.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2013\Projects\EnhancedSteam\WindowsFormsApplication2\obj\Debug\EnhancedSteam.Form1.resources
+D:\Documents\Visual Studio 2013\Projects\EnhancedSteam\WindowsFormsApplication2\obj\Debug\EnhancedSteam.Properties.Resources.resources
+D:\Documents\Visual Studio 2013\Projects\EnhancedSteam\WindowsFormsApplication2\obj\Debug\EnhancedSteam.csproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2013\Projects\EnhancedSteam\WindowsFormsApplication2\bin\Debug\EnhancedSteam.exe.config
+C:\Users\jshackles\Documents\Visual Studio 2013\Projects\EnhancedSteam\WindowsFormsApplication2\obj\Debug\EnhancedSteam.AboutBox1.resources
+C:\Users\jshackles\Documents\Visual Studio 2013\Projects\EnhancedSteam\WindowsFormsApplication2\bin\Debug\Enhanced Steam.exe.config
+C:\Users\jshackles\Documents\Visual Studio 2013\Projects\EnhancedSteam\WindowsFormsApplication2\bin\Debug\Enhanced Steam.exe
+C:\Users\jshackles\Documents\Visual Studio 2013\Projects\EnhancedSteam\WindowsFormsApplication2\bin\Debug\Enhanced Steam.pdb
+C:\Users\jshackles\Documents\Visual Studio 2013\Projects\EnhancedSteam\WindowsFormsApplication2\obj\Debug\Enhanced Steam.exe
+C:\Users\jshackles\Documents\Visual Studio 2013\Projects\EnhancedSteam\WindowsFormsApplication2\obj\Debug\Enhanced Steam.pdb
+C:\Users\jshackles\Documents\Visual Studio 2013\Projects\EnhancedSteam\WindowsFormsApplication2\bin\Debug\AutomaticUpdater.dll
+C:\Users\jshackles\Documents\Visual Studio 2013\Projects\EnhancedSteam\WindowsFormsApplication2\bin\Debug\AutomaticUpdater.xml
+C:\Users\jshackles\Documents\Visual Studio 2013\Projects\EnhancedSteam\EnhancedSteam\bin\Debug\Enhanced Steam.exe.config
+C:\Users\jshackles\Documents\Visual Studio 2013\Projects\EnhancedSteam\EnhancedSteam\obj\Debug\Enhanced Steam.exe
+C:\Users\jshackles\Documents\Visual Studio 2013\Projects\EnhancedSteam\EnhancedSteam\obj\Debug\Enhanced Steam.pdb
+C:\Users\jshackles\Documents\Visual Studio 2013\Projects\EnhancedSteam\EnhancedSteam\bin\Debug\Enhanced Steam.exe
+C:\Users\jshackles\Documents\Visual Studio 2013\Projects\EnhancedSteam\EnhancedSteam\bin\Debug\Enhanced Steam.pdb
+C:\Users\jshackles\Documents\Visual Studio 2013\Projects\EnhancedSteam\EnhancedSteam\bin\Debug\AutomaticUpdater.dll
+C:\Users\jshackles\Documents\Visual Studio 2013\Projects\EnhancedSteam\EnhancedSteam\bin\Debug\FiddlerCore4.dll
+C:\Users\jshackles\Documents\Visual Studio 2013\Projects\EnhancedSteam\EnhancedSteam\bin\Debug\AutomaticUpdater.xml
+C:\Users\jshackles\Documents\Visual Studio 2013\Projects\EnhancedSteam\EnhancedSteam\bin\Debug\FiddlerCore4.xml
+C:\Users\jshackles\Documents\Visual Studio 2013\Projects\EnhancedSteam\EnhancedSteam\obj\Debug\EnhancedSteam.csprojResolveAssemblyReference.cache
+C:\Users\jshackles\Documents\Visual Studio 2013\Projects\EnhancedSteam\EnhancedSteam\obj\Debug\EnhancedSteam.AboutBox1.resources
+C:\Users\jshackles\Documents\Visual Studio 2013\Projects\EnhancedSteam\EnhancedSteam\obj\Debug\EnhancedSteam.Form1.resources
+C:\Users\jshackles\Documents\Visual Studio 2013\Projects\EnhancedSteam\EnhancedSteam\obj\Debug\EnhancedSteam.Properties.Resources.resources
+C:\Users\jshackles\Documents\Visual Studio 2013\Projects\EnhancedSteam\EnhancedSteam\obj\Debug\EnhancedSteam.csproj.GenerateResource.Cache
+C:\Users\jshackles\Google Drive\Enhanced Steam\Standalone\0.6\src\EnhancedSteam\bin\Debug\Enhanced Steam.exe.config
+C:\Users\jshackles\Google Drive\Enhanced Steam\Standalone\0.6\src\EnhancedSteam\obj\Debug\Enhanced Steam.exe
+C:\Users\jshackles\Google Drive\Enhanced Steam\Standalone\0.6\src\EnhancedSteam\obj\Debug\Enhanced Steam.pdb

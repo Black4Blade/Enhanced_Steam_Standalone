@@ -1,3 +1,16 @@
+0.6-beta
+-----
++ Enhanced Steam is moving from alpha to beta, expect bugs
++ Completely redesigned launcher
++ More seamless user experience - Steam is Enhanced when launcher is running
++ Enhanced Steam no longer requires editing your host files
++ Added the option to minimize to system tray
++ Updated the codebase to include more features
++ Updated the codebase to work with the new Steam store layout
++ Enhanced Steam will now check for updates automatically
+: Enhanced Steam now requires an administrator to run
+- The application is now Windows only
+
 2014-05-16 alpha
 -----
 + Added localization (language) support
