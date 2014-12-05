@@ -15,7 +15,7 @@ Installation
 Principle
 ---------
 
-This program creates a local passthrough proxy that injects some javascript into the Steam store and community pages, so they will be enhanced.  When the proxy detects a response matching certain criteria (html response from store.steampowered.com or steamcommunity.com with a proper <HEAD> tag) then the proxy will insert the code from enhancedsteam.js and the CSS from enhancedsteam.css in the program directory.  Your browser will receive this request as if it had not been altered and evaluate the code.
+This program creates a local passthrough proxy that injects some javascript into the Steam store and community pages, so they will be enhanced.  When the proxy detects a response matching certain criteria (html response from store.steampowered.com or steamcommunity.com with a proper HEAD tag) then the proxy will insert the code from enhancedsteam.js and the CSS from enhancedsteam.css in the program directory.  Your browser will receive this request as if it had not been altered and evaluate the code.
 
 License
 -----
